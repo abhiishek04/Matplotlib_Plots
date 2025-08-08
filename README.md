@@ -1,3 +1,4 @@
+PYTHON (MATPLOTLIB PLOTS)
 
 📊 Complete Matplotlib Plots & Graphs in Python for Data Visualization
 This project is a comprehensive collection of all essential plots and graphs created using Matplotlib, the most widely used data visualization library in Python. It serves as a practical reference and learning resource for anyone looking to master data visualization in Python.
